@@ -1,9 +1,6 @@
 # "Calls API using Axios"
 
 TUGAS AKHIR PWD
-Nama : Muhammad Wildansyah
-Kelas : XII-RPL3
-No.Absen : 25
 
 Studi Kasus tentang Data Kelas Menggunakan CRUD. Konsep dan Cara sama seperti Contoh.
 
